@@ -42,7 +42,7 @@ A github repo to help facilitate/manage/generate content for LaunchIt Studio's s
   * 05.a
   * 05.b
   * 05.c
-#### Week 06 **02/07 - 02/13**
+#### Week 06 | **02/07 - 02/13**
   * 06.a
   * 06.b
   * 06.c
