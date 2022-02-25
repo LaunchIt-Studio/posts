@@ -1,20 +1,20 @@
 # LaunchIt Studio Posts 2022
 A github repo to help facilitate/manage/generate content for LaunchIt Studio's social media accounts! 
 
-## Schedule
-* [JAN 03 - JAN 30](#week-00-04)
-* [JAN 31 - FEB 27](#week-05-08)
-* [FEB 28 - MAR 27](#week-09-12)
-* [MAR 28 - APR 24](#week-13-16)
-* [APR 25 - MAY 22](#week-17-20)
-* [MAY 23 - JUN 19](#week-21-24)
-* [JUN 20 - JUL 17](#week-25-28)
-* [JUL 18 - AUG 14](#week-29-32)
-* [AUG 15 - SEP 11](#week-33-36)
-* [SEP 12 - OCT 09](#week-37-40)
-* [OCT 10 - NOV 06](#week-41-44)
-* [NOV 07 - DEC 04](#week-45-48)
-* [DEC 05 - JAN 01](#week-49-52)
+* Schedule
+  * [JAN 03 - JAN 30](#week-00-04)
+  * [JAN 31 - FEB 27](#week-05-08)
+  * [FEB 28 - MAR 27](#week-09-12)
+  * [MAR 28 - APR 24](#week-13-16)
+  * [APR 25 - MAY 22](#week-17-20)
+  * [MAY 23 - JUN 19](#week-21-24)
+  * [JUN 20 - JUL 17](#week-25-28)
+  * [JUL 18 - AUG 14](#week-29-32)
+  * [AUG 15 - SEP 11](#week-33-36)
+  * [SEP 12 - OCT 09](#week-37-40)
+  * [OCT 10 - NOV 06](#week-41-44)
+  * [NOV 07 - DEC 04](#week-45-48)
+  * [DEC 05 - JAN 01](#week-49-52)
 
 ### Week #00-04
 * Week 1 - 01/03-01/09
