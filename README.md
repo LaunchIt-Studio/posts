@@ -20,64 +20,61 @@ A github repo to help facilitate/manage/generate content for LaunchIt Studio's s
     * [December](#december)
 
 ### January
-#### Week 1
+#### Week 01 **01/03 - 01/09**
   * 01.a
   * 01.b
   * 01.c
-#### Week 2
+#### Week 02 **01/10 - 01/16**
   * 02.a
   * 02.b
   * 02.c
-#### Week 3
+#### Week 03 **01/17 - 01/23**
   * 03.a
   * 03.b
   * 03.c
-#### Week 4
+#### Week 04 **01/24 - 01/30**
   * 04.a
   * 04.b
   * 04.c
-#### Week 5
+---
+### February
+#### Week 05 **01/31 - 02/06**
   * 05.a
   * 05.b
   * 05.c
----
-### February
-#### Week 6
+#### Week 06 **02/07 - 02/13**
   * 06.a
   * 06.b
   * 06.c
-#### Week 7
+#### Week 07 **02/14 - 02/20**
   * 07.a
   * 07.b
   * 07.c
-#### Week 8
+#### Week 08 **02/21 - 02/27**
   * 08.a
   * 08.b
   * 08.c
-#### Week 9
+---
+### March
+#### Week 09 **02/28 - 03/06**
   * 09.a
   * 09.b
   * 09.c
----
-### March
-#### Week 10
+#### Week 10 **03/07 - 03/13**
   * 10.a
   * 10.b
   * 10.c
-#### Week 11
+#### Week 11 **03/14 - 03/20**
   * 11.a
   * 11.b
   * 11.c
-#### Week 12
+#### Week 12 **03/21 - 03/27**
   * 12.a
   * 12.b
   * 12.c
-#### Week 13
-  * 13.a
-  * 13.b
-  * 13.c
 ---
 ### April
+#### Week 13
 #### Week 14
 #### Week 15
 #### Week 16
