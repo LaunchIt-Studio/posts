@@ -19,7 +19,7 @@ A github repo to help facilitate/manage/generate content for LaunchIt Studio's s
     * [November](#november)
     * [December](#december)
 
-### January
+### ~~January~~
 #### Week 01 | **01/03 - 01/09**
   * 01.a
   * 01.b
@@ -37,7 +37,7 @@ A github repo to help facilitate/manage/generate content for LaunchIt Studio's s
   * 04.b
   * 04.c
 ---
-### February
+### ~~February~~
 #### Week 05 | **01/31 - 02/06**
   * 05.a
   * 05.b
